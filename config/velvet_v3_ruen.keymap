@@ -10,14 +10,14 @@
 
         cmben {
             bindings = <&layer_en>;
-            key-positions = <24 43>;
+            key-positions = <24 38>;
             layers = <1>;
             require-prior-idle-ms = <300>;
         };
 
         cmbru {
             bindings = <&layer_ru>;
-            key-positions = <24 43>;
+            key-positions = <38 24>;
             layers = <0>;
             require-prior-idle-ms = <300>;
         };
